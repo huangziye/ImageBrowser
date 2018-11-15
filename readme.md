@@ -9,7 +9,7 @@
 
 
 
-# Add ` imageBrowser ` to project
+# Add ` ImageBrowser ` to project
 
 - Step 1：Add the JitPack repository to your build file
 
