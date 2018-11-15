@@ -1,11 +1,11 @@
-[![](https://jitpack.io/v/huangziye/imageBrowser.svg)](https://jitpack.io/#huangziye/imageBrowser)
+[![](https://jitpack.io/v/huangziye/ImageBrowser.svg)](https://jitpack.io/#huangziye/imageBrowser)
 
 一个图片浏览框架,类似微信图片浏览,手势向下滑动关闭,图片加载引擎自定义,支持长按,单击监听,切换监听,自定义任意的遮罩层，实现各种效果,支持横竖屏切换,简单方便。
 
 
 **效果图：**
 
-![效果图](https://github.com/huangziye/imageBrowser/blob/master/screenshot/imagebrowser.gif)
+![效果图](https://github.com/huangziye/ImageBrowser/blob/master/screenshot/imagebrowser.gif)
 
 
 
@@ -30,7 +30,7 @@ The latest version shall prevail.
 
 ```android
 dependencies {
-        implementation 'com.github.huangziye:imageBrowser:${latest_version}'
+        implementation 'com.github.huangziye:ImageBrowser:${latest_version}'
 }
 ```
 
